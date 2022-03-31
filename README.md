@@ -6,15 +6,6 @@
     A complete Exam Portal System built using Django and Bootstrap
     <br />
     <br />
-    <a href="https://github.com/SubhradeepSS/Exam-Portal"><strong>Explore the docs »</strong></a>
-    <br />
-    <a href="https://exam-portal-v01.herokuapp.com/">View Website</a>
-    ·   
-    <a href="https://github.com/SubhradeepSS/Exam-Portal/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/SubhradeepSS/Exam-Portal/issues">Request Feature</a>
-  </p>
-</p>
 
 
 
