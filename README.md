@@ -68,11 +68,11 @@ Following software needs to be setup in the system
 
 1. Clone the repo by
    ```sh
-   git clone https://github.com/SubhradeepSS/Exam-Portal.git
+   git clone https://github.com/JasrajUchiha/exam-management.git
    ```
    or (if [github-cli](https://github.com/cli/cli) is installed)
    ```sh
-   gh repo clone SubhradeepSS/Exam-Portal
+   gh repo clone JasrajUchiha/exam-management
    ```
 2. Open the project in any source code editor.
 3. Activate python virtual environment.
@@ -105,8 +105,6 @@ For running the project, navigate to the project directory and follow the follow
 * Now any student/professor can login using their own credentials.
 
 
-### Deployment
-View deployed site [here](https://exam-portal-v01.herokuapp.com/).
 ##### Credentials:
 | User Type      | Username | Password |
 | ----------- | ----------- | -----------|
@@ -115,33 +113,3 @@ View deployed site [here](https://exam-portal-v01.herokuapp.com/).
 | prof   | prof_1        | password_prof_1 |
 
 The admin can create more users(professors/students) from the django admin panel and can add them to corresponding groups, after which they can login through the site.
-
-
-## TO-DO
-Following features/enhancements are thought to be added later:
-* [frontend](https://github.com/SubhradeepSS/Exam-Portal/projects/2#column-9414925)
-* [backend](https://github.com/SubhradeepSS/Exam-Portal/projects/1#column-9414911)
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-Any contributions made to the project are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-* [Best-README-template](https://github.com/othneildrew/Best-README-Template)
-
-
-
-[stars-url]: https://github.com/SubhradeepSS/Exam-Portal/stargazers
-[issues-shield]: https://img.shields.io/github/issues/SubhradeepSS/Exam-Portal.svg?style=for-the-badge
-[issues-url]: https://github.com/SubhradeepSS/Exam-Portal/issues
-[license-shield]: https://img.shields.io/github/license/SubhradeepSS/Exam-Portal.svg?style=for-the-badge
-[license-url]: https://github.com/SubhradeepSS/Exam-Portal/blob/master/LICENSE.txt
