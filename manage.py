@@ -3,7 +3,7 @@
 import os
 import sys
 
-
+#superuser cred: jasrajcp, jbedekar@yahoo.com, password=copypasta
 def main():
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'portal.settings')
     try:
